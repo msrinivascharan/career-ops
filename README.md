@@ -74,6 +74,21 @@
   <a href="TRADEMARK.md"><img src="https://img.shields.io/badge/Trademark-Policy-blue.svg" alt="Trademark Policy"></a>
 </p>
 
+## About This Fork
+
+This is a personalized fork of career-ops, retargeted from its original AI/Product-Manager focus to a **DevOps / Platform / SRE / MLOps / Cloud Engineering** job search centered on **India (Hyderabad-based) and remote** roles.
+
+**What changed from upstream:**
+- `portals.yml` rebuilt around India product companies and Global Capability Centers (GCCs) — Harness, GitLab, Grafana Labs, Databricks, Amgen, Novartis, Wells Fargo, SimCorp, Kantar, and 60+ more — with 20+ companies wired for **zero-token Workday scanning**. IT-services/consulting firms (Accenture, Wipro, Infosys, TCS, Capgemini, etc.) are deliberately excluded by policy.
+- Location policy: Hyderabad/Telangana on-site, hybrid, or remote all acceptable; everywhere else (India or the world) only if the role is **fully remote**.
+- Target archetypes shifted to DevOps/SRE, Platform Engineering, MLOps, and Cloud Engineering.
+- Comp guidance and negotiation scripts adapted for INR (India total-CTC) alongside global remote-USD bands.
+- Personal data (CV, profile, application tracker, evaluation reports, generated CV PDFs) stays local per `DATA_CONTRACT.md` — nothing personal is committed to this repository.
+
+The upstream project, its author's story, and the full feature set are described below. See [santifer/career-ops](https://github.com/santifer/career-ops) for the original.
+
+---
+
 ## What Is This
 
 Career-Ops ([career-ops.org](https://career-ops.org), also known as **careerops**) turns any AI coding CLI into a full job search command center. Instead of manually tracking applications in a spreadsheet, you get an AI-powered pipeline that:
